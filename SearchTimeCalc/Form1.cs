@@ -29,10 +29,6 @@ namespace SearchTimeCalc
             }
             else
                 MessageBox.Show("Please enter a valid number");
-                  
-
-                
-
         }
 
         private void NumberOfSearches(int records, Label label)
